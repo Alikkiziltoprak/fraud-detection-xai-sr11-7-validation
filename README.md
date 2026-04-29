@@ -131,7 +131,7 @@ jupyter notebook
 ---
 
 ## Author
-**Ali Kiziltoprak** |  
+**Ali Kiziltoprak**  
 
 ---
 
