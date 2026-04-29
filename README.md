@@ -71,6 +71,10 @@ and recall based on business cost assumptions.
 > Threshold optimization reduced unnecessary investigations by
 > **89.6%** (10,052 → 1,047) — directly reducing operational cost.
 
+### Decision Framework
+
+![Dual Threshold Decision Framework](13_dual_threshold_flowchart.png)
+
 ---
 
 ## 3. Explainability (SHAP)
