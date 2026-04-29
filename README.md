@@ -29,17 +29,15 @@ validate all models used in risk decisions. This project simulates that process:
 
 ## Project Structure
 
-```text
-fraud-detection-xai-sr11-7-validation/
-├── 01_EDA_and_Data_Understanding.ipynb
-├── 02_Feature_Engineering_and_Preprocessing.ipynb
-├── 03_Model_Training_XGBoost.ipynb
-├── 04_Explainability_SHAP.ipynb
-├── 05_Bias_Analysis_and_Model_Validation.ipynb
-├── 06_Scenario_Testing_and_Validation_Report.ipynb
-├── validation_report.txt
-└── README.md
-```
+    fraud-detection-xai-sr11-7-validation/
+    ├── 01_EDA_and_Data_Understanding.ipynb
+    ├── 02_Feature_Engineering_and_Preprocessing.ipynb
+    ├── 03_Model_Training_XGBoost.ipynb
+    ├── 04_Explainability_SHAP.ipynb
+    ├── 05_Bias_Analysis_and_Model_Validation.ipynb
+    ├── 06_Scenario_Testing_and_Validation_Report.ipynb
+    ├── validation_report.txt
+    └── README.md
 ---
 
 ## Technical Stack
@@ -131,7 +129,8 @@ jupyter notebook
 ---
 
 ## Author
-**Ali Kiziltoprak**  
+**Ali** | MS Data Science, University of Pittsburgh  
+Risk Management & Quantitative Analytics
 
 ---
 
