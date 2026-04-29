@@ -131,8 +131,7 @@ jupyter notebook
 ---
 
 ## Author
-**Ali** | MS Data Science, University of Pittsburgh  
-Risk Management & Quantitative Analytics
+**Ali Kiziltoprak** |  
 
 ---
 
